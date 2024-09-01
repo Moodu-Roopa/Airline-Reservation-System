@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "D:/C++"
+		},
+		{
+			"path": "../Airline_Registration_System"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "xprotocol",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 33060,
+				"driver": "MySQL",
+				"name": "MySQL Local",
+				"database": "roopa",
+				"username": "root",
+				"password": "Roopa@1169",
+				"connectionTimeout": 30
+			}
+		]
+	}
+}
